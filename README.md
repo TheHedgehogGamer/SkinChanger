@@ -6,7 +6,7 @@ It was tested in version 1.8
 # Can't find some librarys?
 
 if you can't find librarys like "org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer;"
-run the build [tools](https://hub.spigotmc.org/jenkins/job/BuildTools/) from bukkit and change the dependency from:
+run the [build tools](https://hub.spigotmc.org/jenkins/job/BuildTools/) from bukkit and change the dependency from:
 ```
 <dependency>
   <groupId>org.spigotmc</groupId>
